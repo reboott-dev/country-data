@@ -2,1534 +2,1920 @@
   {
     "alpha2": "AC",
     "alpha3": "",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+247"
     ],
-    "currencies": [
+    "currencies":
+    [
       "USD"
     ],
     "emoji": "",
     "ioc": "SHP",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Ascension Island",
+    "korName": "",
     "status": "reserved"
   },
   {
     "alpha2": "AD",
     "alpha3": "AND",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+376"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇦🇩",
     "ioc": "AND",
-    "languages": [
+    "languages":
+    [
       "cat"
     ],
     "name": "Andorra",
+    "korName": "안도라",
     "status": "assigned"
   },
   {
     "alpha2": "AE",
     "alpha3": "ARE",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+971"
     ],
-    "currencies": [
+    "currencies":
+    [
       "AED"
     ],
     "emoji": "🇦🇪",
     "ioc": "UAE",
-    "languages": [
+    "languages":
+    [
       "ara"
     ],
     "name": "United Arab Emirates",
+    "korName": "아랍에미리트",
     "status": "assigned"
   },
   {
     "alpha2": "AF",
     "alpha3": "AFG",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+93"
     ],
-    "currencies": [
+    "currencies":
+    [
       "AFN"
     ],
     "emoji": "🇦🇫",
     "ioc": "AFG",
-    "languages": [
+    "languages":
+    [
       "pus"
     ],
     "name": "Afghanistan",
+    "korName": "아프가니스탄",
     "status": "assigned"
   },
   {
     "alpha2": "AG",
     "alpha3": "ATG",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1 268"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XCD"
     ],
     "emoji": "🇦🇬",
     "ioc": "ANT",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Antigua And Barbuda",
+    "korName": "앤티가 바부다",
     "status": "assigned"
   },
   {
     "alpha2": "AI",
     "alpha3": "AIA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1 264"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XCD"
     ],
     "emoji": "🇦🇮",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Anguilla",
+    "korName": "앵귈라",
     "status": "assigned"
   },
   {
     "alpha2": "AI",
     "alpha3": "AFI",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "French Afar and Issas",
+    "korName": "앵귈라",
     "status": "deleted"
   },
   {
     "alpha2": "AL",
     "alpha3": "ALB",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+355"
     ],
-    "currencies": [
+    "currencies":
+    [
       "ALL"
     ],
     "emoji": "🇦🇱",
     "ioc": "ALB",
-    "languages": [
+    "languages":
+    [
       "sqi"
     ],
     "name": "Albania",
+    "korName": "알바니아",
     "status": "assigned"
   },
   {
     "alpha2": "AM",
     "alpha3": "ARM",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+374"
     ],
-    "currencies": [
+    "currencies":
+    [
       "AMD"
     ],
     "emoji": "🇦🇲",
     "ioc": "ARM",
-    "languages": [
+    "languages":
+    [
       "hye",
       "rus"
     ],
     "name": "Armenia",
+    "korName": "아르메니아",
     "status": "assigned"
   },
   {
     "alpha2": "AN",
     "alpha3": "ANT",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Netherlands Antilles",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "AO",
     "alpha3": "AGO",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+244"
     ],
-    "currencies": [
+    "currencies":
+    [
       "AOA"
     ],
     "emoji": "🇦🇴",
     "ioc": "ANG",
-    "languages": [
+    "languages":
+    [
       "por"
     ],
     "name": "Angola",
+    "korName": "앙골라",
     "status": "assigned"
   },
   {
     "alpha2": "AQ",
     "alpha3": "ATA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+672"
     ],
-    "currencies": [],
+    "currencies":
+    [],
     "emoji": "🇦🇶",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Antarctica",
+    "korName": "남극 대륙",
     "status": "assigned"
   },
   {
     "alpha2": "AR",
     "alpha3": "ARG",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+54"
     ],
-    "currencies": [
+    "currencies":
+    [
       "ARS"
     ],
     "emoji": "🇦🇷",
     "ioc": "ARG",
-    "languages": [
+    "languages":
+    [
       "spa"
     ],
     "name": "Argentina",
+    "korName": "아르헨티나",
     "status": "assigned"
   },
   {
     "alpha2": "AS",
     "alpha3": "ASM",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1 684"
     ],
-    "currencies": [
+    "currencies":
+    [
       "USD"
     ],
     "emoji": "🇦🇸",
     "ioc": "ASA",
-    "languages": [
+    "languages":
+    [
       "eng",
       "smo"
     ],
     "name": "American Samoa",
+    "korName": "아메리칸 사모아",
     "status": "assigned"
   },
   {
     "alpha2": "AT",
     "alpha3": "AUT",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+43"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇦🇹",
     "ioc": "AUT",
-    "languages": [
+    "languages":
+    [
       "deu"
     ],
     "name": "Austria",
+    "korName": "오스트리아",
     "status": "assigned"
   },
   {
     "alpha2": "AU",
     "alpha3": "AUS",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+61"
     ],
-    "currencies": [
+    "currencies":
+    [
       "AUD"
     ],
     "emoji": "🇦🇺",
     "ioc": "AUS",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Australia",
+    "korName": "오스트레일리아",
     "status": "assigned"
   },
   {
     "alpha2": "AW",
     "alpha3": "ABW",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+297"
     ],
-    "currencies": [
+    "currencies":
+    [
       "AWG"
     ],
     "emoji": "🇦🇼",
     "ioc": "ARU",
-    "languages": [
+    "languages":
+    [
       "nld"
     ],
     "name": "Aruba",
+    "korName": "아루바",
     "status": "assigned"
   },
   {
     "alpha2": "AX",
     "alpha3": "ALA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+358"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇦🇽",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "swe"
     ],
     "name": "Åland Islands",
+    "korName": "올란드 제도",
     "status": "assigned"
   },
   {
     "alpha2": "AZ",
     "alpha3": "AZE",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+994"
     ],
-    "currencies": [
+    "currencies":
+    [
       "AZN"
     ],
     "emoji": "🇦🇿",
     "ioc": "AZE",
-    "languages": [
+    "languages":
+    [
       "aze"
     ],
     "name": "Azerbaijan",
+    "korName": "아제르바이잔",
     "status": "assigned"
   },
   {
     "alpha2": "BA",
     "alpha3": "BIH",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+387"
     ],
-    "currencies": [
+    "currencies":
+    [
       "BAM"
     ],
     "emoji": "🇧🇦",
     "ioc": "BIH",
-    "languages": [
+    "languages":
+    [
       "bos",
       "cre",
       "srp"
     ],
     "name": "Bosnia & Herzegovina",
+    "korName": "보스니아 헤르체고비나",
     "status": "assigned"
   },
   {
     "alpha2": "BB",
     "alpha3": "BRB",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1 246"
     ],
-    "currencies": [
+    "currencies":
+    [
       "BBD"
     ],
     "emoji": "🇧🇧",
     "ioc": "BAR",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Barbados",
+    "korName": "바베이도스",
     "status": "assigned"
   },
   {
     "alpha2": "BD",
     "alpha3": "BGD",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+880"
     ],
-    "currencies": [
+    "currencies":
+    [
       "BDT"
     ],
     "emoji": "🇧🇩",
     "ioc": "BAN",
-    "languages": [
+    "languages":
+    [
       "ben"
     ],
     "name": "Bangladesh",
+    "korName": "방글라데시",
     "status": "assigned"
   },
   {
     "alpha2": "BE",
     "alpha3": "BEL",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+32"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇧🇪",
     "ioc": "BEL",
-    "languages": [
+    "languages":
+    [
       "nld",
       "fra",
       "deu"
     ],
     "name": "Belgium",
+    "korName": "벨기에",
     "status": "assigned"
   },
   {
     "alpha2": "BF",
     "alpha3": "BFA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+226"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XOF"
     ],
     "emoji": "🇧🇫",
     "ioc": "BUR",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "Burkina Faso",
+    "korName": "부르키나파소",
     "status": "assigned"
   },
   {
     "alpha2": "BG",
     "alpha3": "BGR",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+359"
     ],
-    "currencies": [
+    "currencies":
+    [
       "BGN"
     ],
     "emoji": "🇧🇬",
     "ioc": "BUL",
-    "languages": [
+    "languages":
+    [
       "bul"
     ],
     "name": "Bulgaria",
+    "korName": "불가리아",
     "status": "assigned"
   },
   {
     "alpha2": "BH",
     "alpha3": "BHR",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+973"
     ],
-    "currencies": [
+    "currencies":
+    [
       "BHD"
     ],
     "emoji": "🇧🇭",
     "ioc": "BRN",
-    "languages": [
+    "languages":
+    [
       "ara"
     ],
     "name": "Bahrain",
+    "korName": "바레인",
     "status": "assigned"
   },
   {
     "alpha2": "BI",
     "alpha3": "BDI",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+257"
     ],
-    "currencies": [
+    "currencies":
+    [
       "BIF"
     ],
     "emoji": "🇧🇮",
     "ioc": "BDI",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "Burundi",
+    "korName": "부룬디",
     "status": "assigned"
   },
   {
     "alpha2": "BJ",
     "alpha3": "BEN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+229"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XOF"
     ],
     "emoji": "🇧🇯",
     "ioc": "BEN",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "Benin",
+    "korName": "베냉",
     "status": "assigned"
   },
   {
     "alpha2": "BL",
     "alpha3": "BLM",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+590"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇧🇱",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "Saint Barthélemy",
+    "korName": "생바르텔레미",
     "status": "assigned"
   },
   {
     "alpha2": "BM",
     "alpha3": "BMU",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1 441"
     ],
-    "currencies": [
+    "currencies":
+    [
       "BMD"
     ],
     "emoji": "🇧🇲",
     "ioc": "BER",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Bermuda",
+    "korName": "버뮤다",
     "status": "assigned"
   },
   {
     "alpha2": "BN",
     "alpha3": "BRN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+673"
     ],
-    "currencies": [
+    "currencies":
+    [
       "BND"
     ],
     "emoji": "🇧🇳",
     "ioc": "BRU",
-    "languages": [
+    "languages":
+    [
       "msa",
       "eng"
     ],
     "name": "Brunei Darussalam",
+    "korName": "브루나이",
     "status": "assigned"
   },
   {
     "alpha2": "BO",
     "alpha3": "BOL",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+591"
     ],
-    "currencies": [
+    "currencies":
+    [
       "BOB",
       "BOV"
     ],
     "emoji": "🇧🇴",
     "ioc": "BOL",
-    "languages": [
+    "languages":
+    [
       "spa",
       "aym",
       "que"
     ],
     "name": "Bolivia, Plurinational State Of",
+    "korName": "볼리비아",
     "status": "assigned"
   },
   {
     "alpha2": "BQ",
     "alpha3": "BES",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+599"
     ],
-    "currencies": [
+    "currencies":
+    [
       "USD"
     ],
     "emoji": "🇧🇶",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "nld"
     ],
     "name": "Bonaire, Saint Eustatius And Saba",
+    "korName": "네덜란드령 카리브",
     "status": "assigned"
   },
   {
     "alpha2": "BQ",
     "alpha3": "ATB",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "British Antarctic Territory",
+    "korName": "네덜란드령 카리브",
     "status": "deleted"
   },
   {
     "alpha2": "BR",
     "alpha3": "BRA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+55"
     ],
-    "currencies": [
+    "currencies":
+    [
       "BRL"
     ],
     "emoji": "🇧🇷",
     "ioc": "BRA",
-    "languages": [
+    "languages":
+    [
       "por"
     ],
     "name": "Brazil",
+    "korName": "브라질",
     "status": "assigned"
   },
   {
     "alpha2": "BS",
     "alpha3": "BHS",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1 242"
     ],
-    "currencies": [
+    "currencies":
+    [
       "BSD"
     ],
     "emoji": "🇧🇸",
     "ioc": "BAH",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Bahamas",
+    "korName": "바하마",
     "status": "assigned"
   },
   {
     "alpha2": "BT",
     "alpha3": "BTN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+975"
     ],
-    "currencies": [
+    "currencies":
+    [
       "INR",
       "BTN"
     ],
     "emoji": "🇧🇹",
     "ioc": "BHU",
-    "languages": [
+    "languages":
+    [
       "dzo"
     ],
     "name": "Bhutan",
+    "korName": "부탄",
     "status": "assigned"
   },
   {
     "alpha2": "BU",
     "alpha3": "BUR",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Burma",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "BV",
     "alpha3": "BVT",
-    "countryCallingCodes": [],
-    "currencies": [
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [
       "NOK"
     ],
     "emoji": "🇧🇻",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Bouvet Island",
+    "korName": "부베섬",
     "status": "assigned"
   },
   {
     "alpha2": "BW",
     "alpha3": "BWA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+267"
     ],
-    "currencies": [
+    "currencies":
+    [
       "BWP"
     ],
     "emoji": "🇧🇼",
     "ioc": "BOT",
-    "languages": [
+    "languages":
+    [
       "eng",
       "tsn"
     ],
     "name": "Botswana",
+    "korName": "보츠와나",
     "status": "assigned"
   },
   {
     "alpha2": "BY",
     "alpha3": "BLR",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+375"
     ],
-    "currencies": [
+    "currencies":
+    [
       "BYR"
     ],
     "emoji": "🇧🇾",
     "ioc": "BLR",
-    "languages": [
+    "languages":
+    [
       "bel",
       "rus"
     ],
     "name": "Belarus",
+    "korName": "벨라루스",
     "status": "assigned"
   },
   {
     "alpha2": "BY",
     "alpha3": "BYS",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Byelorussian SSR",
+    "korName": "벨라루스",
     "status": "deleted"
   },
   {
     "alpha2": "BZ",
     "alpha3": "BLZ",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+501"
     ],
-    "currencies": [
+    "currencies":
+    [
       "BZD"
     ],
     "emoji": "🇧🇿",
     "ioc": "BIZ",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Belize",
+    "korName": "벨리즈",
     "status": "assigned"
   },
   {
     "alpha2": "CA",
     "alpha3": "CAN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1"
     ],
-    "currencies": [
+    "currencies":
+    [
       "CAD"
     ],
     "emoji": "🇨🇦",
     "ioc": "CAN",
-    "languages": [
+    "languages":
+    [
       "eng",
       "fra"
     ],
     "name": "Canada",
+    "korName": "캐나다",
     "status": "assigned"
   },
   {
     "alpha2": "CC",
     "alpha3": "CCK",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+61"
     ],
-    "currencies": [
+    "currencies":
+    [
       "AUD"
     ],
     "emoji": "🇨🇨",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Cocos (Keeling) Islands",
+    "korName": "코코스 제도",
     "status": "assigned"
   },
   {
     "alpha2": "CD",
     "alpha3": "COD",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+243"
     ],
-    "currencies": [
+    "currencies":
+    [
       "CDF"
     ],
     "emoji": "🇨🇩",
     "ioc": "COD",
-    "languages": [
+    "languages":
+    [
       "fra",
       "lin",
       "kon",
       "swa"
     ],
     "name": "Democratic Republic Of Congo",
+    "korName": "콩고-킨샤사",
     "status": "assigned"
   },
   {
     "alpha2": "CF",
     "alpha3": "CAF",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+236"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XAF"
     ],
     "emoji": "🇨🇫",
     "ioc": "CAF",
-    "languages": [
+    "languages":
+    [
       "fra",
       "sag"
     ],
     "name": "Central African Republic",
+    "korName": "중앙 아프리카 공화국",
     "status": "assigned"
   },
   {
     "alpha2": "CG",
     "alpha3": "COG",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+242"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XAF"
     ],
     "emoji": "🇨🇬",
     "ioc": "CGO",
-    "languages": [
+    "languages":
+    [
       "fra",
       "lin"
     ],
     "name": "Republic Of Congo",
+    "korName": "콩고-브라자빌",
     "status": "assigned"
   },
   {
     "alpha2": "CH",
     "alpha3": "CHE",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+41"
     ],
-    "currencies": [
+    "currencies":
+    [
       "CHF",
       "CHE",
       "CHW"
     ],
     "emoji": "🇨🇭",
     "ioc": "SUI",
-    "languages": [
+    "languages":
+    [
       "deu",
       "fra",
       "ita",
       "roh"
     ],
     "name": "Switzerland",
+    "korName": "스위스",
     "status": "assigned"
   },
   {
     "alpha2": "CI",
     "alpha3": "CIV",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+225"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XOF"
     ],
     "emoji": "🇨🇮",
     "ioc": "CIV",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "Côte d'Ivoire",
+    "korName": "코트디부아르",
     "status": "assigned"
   },
   {
     "alpha2": "CK",
     "alpha3": "COK",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+682"
     ],
-    "currencies": [
+    "currencies":
+    [
       "NZD"
     ],
     "emoji": "🇨🇰",
     "ioc": "COK",
-    "languages": [
+    "languages":
+    [
       "eng",
       "mri"
     ],
     "name": "Cook Islands",
+    "korName": "쿡 제도",
     "status": "assigned"
   },
   {
     "alpha2": "CL",
     "alpha3": "CHL",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+56"
     ],
-    "currencies": [
+    "currencies":
+    [
       "CLP",
       "CLF"
     ],
     "emoji": "🇨🇱",
     "ioc": "CHI",
-    "languages": [
+    "languages":
+    [
       "spa"
     ],
     "name": "Chile",
+    "korName": "칠레",
     "status": "assigned"
   },
   {
     "alpha2": "CM",
     "alpha3": "CMR",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+237"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XAF"
     ],
     "emoji": "🇨🇲",
     "ioc": "CMR",
-    "languages": [
+    "languages":
+    [
       "eng",
       "fra"
     ],
     "name": "Cameroon",
+    "korName": "카메룬",
     "status": "assigned"
   },
   {
     "alpha2": "CN",
     "alpha3": "CHN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+86"
     ],
-    "currencies": [
+    "currencies":
+    [
       "CNY"
     ],
     "emoji": "🇨🇳",
     "ioc": "CHN",
-    "languages": [
+    "languages":
+    [
       "zho"
     ],
     "name": "China",
+    "korName": "중국",
     "status": "assigned"
   },
   {
     "alpha2": "CO",
     "alpha3": "COL",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+57"
     ],
-    "currencies": [
+    "currencies":
+    [
       "COP",
       "COU"
     ],
     "emoji": "🇨🇴",
     "ioc": "COL",
-    "languages": [
+    "languages":
+    [
       "spa"
     ],
     "name": "Colombia",
+    "korName": "콜롬비아",
     "status": "assigned"
   },
   {
     "alpha2": "CP",
     "alpha3": "",
-    "countryCallingCodes": [],
-    "currencies": [
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Clipperton Island",
+    "korName": "",
     "status": "reserved"
   },
   {
     "alpha2": "CR",
     "alpha3": "CRI",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+506"
     ],
-    "currencies": [
+    "currencies":
+    [
       "CRC"
     ],
     "emoji": "🇨🇷",
     "ioc": "CRC",
-    "languages": [
+    "languages":
+    [
       "spa"
     ],
     "name": "Costa Rica",
+    "korName": "코스타리카",
     "status": "assigned"
   },
   {
     "alpha2": "CS",
     "alpha3": "CSK",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Czechoslovakia",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "CS",
     "alpha3": "SCG",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Serbia and Montenegro",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "CT",
     "alpha3": "CTE",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Canton and Enderbury Islands",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "CU",
     "alpha3": "CUB",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+53"
     ],
-    "currencies": [
+    "currencies":
+    [
       "CUP",
       "CUC"
     ],
     "emoji": "🇨🇺",
     "ioc": "CUB",
-    "languages": [
+    "languages":
+    [
       "spa"
     ],
     "name": "Cuba",
+    "korName": "쿠바",
     "status": "assigned"
   },
   {
     "alpha2": "CV",
     "alpha3": "CPV",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+238"
     ],
-    "currencies": [
+    "currencies":
+    [
       "CVE"
     ],
     "emoji": "🇨🇻",
     "ioc": "CPV",
-    "languages": [
+    "languages":
+    [
       "por"
     ],
     "name": "Cabo Verde",
+    "korName": "카보베르데",
     "status": "assigned"
   },
   {
     "alpha2": "CW",
     "alpha3": "CUW",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+599"
     ],
-    "currencies": [
+    "currencies":
+    [
       "ANG"
     ],
     "emoji": "🇨🇼",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "nld"
     ],
     "name": "Curacao",
+    "korName": "퀴라소",
     "status": "assigned"
   },
   {
     "alpha2": "CX",
     "alpha3": "CXR",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+61"
     ],
-    "currencies": [
+    "currencies":
+    [
       "AUD"
     ],
     "emoji": "🇨🇽",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Christmas Island",
+    "korName": "크리스마스섬",
     "status": "assigned"
   },
   {
     "alpha2": "CY",
     "alpha3": "CYP",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+357"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇨🇾",
     "ioc": "CYP",
-    "languages": [
+    "languages":
+    [
       "ell",
       "tur"
     ],
     "name": "Cyprus",
+    "korName": "키프로스",
     "status": "assigned"
   },
   {
     "alpha2": "CZ",
     "alpha3": "CZE",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+420"
     ],
-    "currencies": [
+    "currencies":
+    [
       "CZK"
     ],
     "emoji": "🇨🇿",
     "ioc": "CZE",
-    "languages": [
+    "languages":
+    [
       "ces"
     ],
     "name": "Czech Republic",
+    "korName": "체코",
     "status": "assigned"
   },
   {
     "alpha2": "DD",
     "alpha3": "DDR",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "German Democratic Republic",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "DE",
     "alpha3": "DEU",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+49"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇩🇪",
     "ioc": "GER",
-    "languages": [
+    "languages":
+    [
       "deu"
     ],
     "name": "Germany",
+    "korName": "독일",
     "status": "assigned"
   },
   {
     "alpha2": "DG",
     "alpha3": "",
-    "countryCallingCodes": [],
-    "currencies": [
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [
       "USD"
     ],
     "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Diego Garcia",
+    "korName": "",
     "status": "reserved"
   },
   {
     "alpha2": "DJ",
     "alpha3": "DJI",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+253"
     ],
-    "currencies": [
+    "currencies":
+    [
       "DJF"
     ],
     "emoji": "🇩🇯",
     "ioc": "DJI",
-    "languages": [
+    "languages":
+    [
       "ara",
       "fra"
     ],
     "name": "Djibouti",
+    "korName": "지부티",
     "status": "assigned"
   },
   {
     "alpha2": "DK",
     "alpha3": "DNK",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+45"
     ],
-    "currencies": [
+    "currencies":
+    [
       "DKK"
     ],
     "emoji": "🇩🇰",
     "ioc": "DEN",
-    "languages": [
+    "languages":
+    [
       "dan"
     ],
     "name": "Denmark",
+    "korName": "덴마크",
     "status": "assigned"
   },
   {
     "alpha2": "DM",
     "alpha3": "DMA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1 767"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XCD"
     ],
     "emoji": "🇩🇲",
     "ioc": "DMA",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Dominica",
+    "korName": "도미니카",
     "status": "assigned"
   },
   {
     "alpha2": "DO",
     "alpha3": "DOM",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1 809",
       "+1 829",
       "+1 849"
     ],
-    "currencies": [
+    "currencies":
+    [
       "DOP"
     ],
     "emoji": "🇩🇴",
     "ioc": "DOM",
-    "languages": [
+    "languages":
+    [
       "spa"
     ],
     "name": "Dominican Republic",
+    "korName": "도미니카 공화국",
     "status": "assigned"
   },
   {
     "alpha2": "DY",
     "alpha3": "DHY",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Dahomey",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "DZ",
     "alpha3": "DZA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+213"
     ],
-    "currencies": [
+    "currencies":
+    [
       "DZD"
     ],
     "emoji": "🇩🇿",
     "ioc": "ALG",
-    "languages": [
+    "languages":
+    [
       "ara"
     ],
     "name": "Algeria",
+    "korName": "알제리",
     "status": "assigned"
   },
   {
     "alpha2": "EA",
     "alpha3": "",
-    "countryCallingCodes": [],
-    "currencies": [
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Ceuta, Mulilla",
+    "korName": "",
     "status": "reserved"
   },
   {
     "alpha2": "EC",
     "alpha3": "ECU",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+593"
     ],
-    "currencies": [
+    "currencies":
+    [
       "USD"
     ],
     "emoji": "🇪🇨",
     "ioc": "ECU",
-    "languages": [
+    "languages":
+    [
       "spa",
       "que"
     ],
     "name": "Ecuador",
+    "korName": "에콰도르",
     "status": "assigned"
   },
   {
     "alpha2": "EE",
     "alpha3": "EST",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+372"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇪🇪",
     "ioc": "EST",
-    "languages": [
+    "languages":
+    [
       "est"
     ],
     "name": "Estonia",
+    "korName": "에스토니아",
     "status": "assigned"
   },
   {
     "alpha2": "EG",
     "alpha3": "EGY",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+20"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EGP"
     ],
     "emoji": "🇪🇬",
     "ioc": "EGY",
-    "languages": [
+    "languages":
+    [
       "ara"
     ],
     "name": "Egypt",
+    "korName": "이집트",
     "status": "assigned"
   },
   {
     "alpha2": "EH",
     "alpha3": "ESH",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+212"
     ],
-    "currencies": [
+    "currencies":
+    [
       "MAD"
     ],
     "emoji": "🇪🇭",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Western Sahara",
+    "korName": "서사하라",
     "status": "assigned"
   },
   {
     "alpha2": "ER",
     "alpha3": "ERI",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+291"
     ],
-    "currencies": [
+    "currencies":
+    [
       "ERN"
     ],
     "emoji": "🇪🇷",
     "ioc": "ERI",
-    "languages": [
+    "languages":
+    [
       "eng",
       "ara",
       "tir"
     ],
     "name": "Eritrea",
+    "korName": "에리트리아",
     "status": "assigned"
   },
   {
     "alpha2": "ES",
     "alpha3": "ESP",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+34"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇪🇸",
     "ioc": "ESP",
-    "languages": [
+    "languages":
+    [
       "spa"
     ],
     "name": "Spain",
+    "korName": "스페인",
     "status": "assigned"
   },
   {
     "alpha2": "ET",
     "alpha3": "ETH",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+251"
     ],
-    "currencies": [
+    "currencies":
+    [
       "ETB"
     ],
     "emoji": "🇪🇹",
     "ioc": "ETH",
-    "languages": [
+    "languages":
+    [
       "amh"
     ],
     "name": "Ethiopia",
+    "korName": "에티오피아",
     "status": "assigned"
   },
   {
     "alpha2": "EU",
     "alpha3": "",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+388"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇪🇺",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "European Union",
+    "korName": "",
     "status": "reserved"
   },
   {
     "alpha2": "FI",
     "alpha3": "FIN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+358"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇫🇮",
     "ioc": "FIN",
-    "languages": [
+    "languages":
+    [
       "fin",
       "swe"
     ],
     "name": "Finland",
+    "korName": "핀란드",
     "status": "assigned"
   },
   {
     "alpha2": "FJ",
     "alpha3": "FJI",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+679"
     ],
-    "currencies": [
+    "currencies":
+    [
       "FJD"
     ],
     "emoji": "🇫🇯",
     "ioc": "FIJ",
-    "languages": [
+    "languages":
+    [
       "eng",
       "fij"
     ],
     "name": "Fiji",
+    "korName": "피지",
     "status": "assigned"
   },
   {
     "alpha2": "FK",
     "alpha3": "FLK",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+500"
     ],
-    "currencies": [
+    "currencies":
+    [
       "FKP"
     ],
     "emoji": "🇫🇰",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Falkland Islands",
+    "korName": "포클랜드 제도",
     "status": "assigned"
   },
   {
     "alpha2": "FM",
     "alpha3": "FSM",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+691"
     ],
-    "currencies": [
+    "currencies":
+    [
       "USD"
     ],
     "emoji": "🇫🇲",
     "ioc": "FSM",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Micronesia, Federated States Of",
+    "korName": "미크로네시아",
     "status": "assigned"
   },
   {
     "alpha2": "FO",
     "alpha3": "FRO",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+298"
     ],
-    "currencies": [
+    "currencies":
+    [
       "DKK"
     ],
     "emoji": "🇫🇴",
     "ioc": "FAI",
-    "languages": [
+    "languages":
+    [
       "fao",
       "dan"
     ],
     "name": "Faroe Islands",
+    "korName": "페로 제도",
     "status": "assigned"
   },
   {
     "alpha2": "FQ",
     "alpha3": "ATF",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "French Southern and Antarctic Territories",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "FR",
     "alpha3": "FRA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+33"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇫🇷",
     "ioc": "FRA",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "France",
+    "korName": "프랑스",
     "status": "assigned"
   },
   {
     "alpha2": "FX",
     "alpha3": "",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+241"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "France, Metropolitan",
+    "korName": "",
     "status": "reserved"
   },
   {
     "alpha2": "GA",
     "alpha3": "GAB",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+241"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XAF"
     ],
     "emoji": "🇬🇦",
     "ioc": "GAB",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "Gabon",
+    "korName": "가봉",
     "status": "assigned"
   },
   {
     "alpha2": "GB",
     "alpha3": "GBR",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+44"
     ],
-    "currencies": [
+    "currencies":
+    [
       "GBP"
     ],
     "emoji": "🇬🇧",
     "ioc": "GBR",
-    "languages": [
+    "languages":
+    [
       "eng",
       "cor",
       "gle",
@@ -1537,2854 +1923,3551 @@
       "cym"
     ],
     "name": "United Kingdom",
+    "korName": "영국",
     "status": "assigned"
   },
   {
     "alpha2": "GD",
     "alpha3": "GRD",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+473"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XCD"
     ],
     "emoji": "🇬🇩",
     "ioc": "GRN",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Grenada",
+    "korName": "그레나다",
     "status": "assigned"
   },
   {
     "alpha2": "GE",
     "alpha3": "GEO",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+995"
     ],
-    "currencies": [
+    "currencies":
+    [
       "GEL"
     ],
     "emoji": "🇬🇪",
     "ioc": "GEO",
-    "languages": [
+    "languages":
+    [
       "kat"
     ],
     "name": "Georgia",
+    "korName": "조지아",
     "status": "assigned"
   },
   {
     "alpha2": "GE",
     "alpha3": "GEL",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Gilbert and Ellice Islands",
+    "korName": "조지아",
     "status": "deleted"
   },
   {
     "alpha2": "GF",
     "alpha3": "GUF",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+594"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇬🇫",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "French Guiana",
+    "korName": "프랑스령 기아나",
     "status": "assigned"
   },
   {
     "alpha2": "GG",
     "alpha3": "GGY",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+44"
     ],
-    "currencies": [
+    "currencies":
+    [
       "GBP"
     ],
     "emoji": "🇬🇬",
     "ioc": "GCI",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "Guernsey",
+    "korName": "건지",
     "status": "assigned"
   },
   {
     "alpha2": "GH",
     "alpha3": "GHA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+233"
     ],
-    "currencies": [
+    "currencies":
+    [
       "GHS"
     ],
     "emoji": "🇬🇭",
     "ioc": "GHA",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Ghana",
+    "korName": "가나",
     "status": "assigned"
   },
   {
     "alpha2": "GI",
     "alpha3": "GIB",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+350"
     ],
-    "currencies": [
+    "currencies":
+    [
       "GIP"
     ],
     "emoji": "🇬🇮",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Gibraltar",
+    "korName": "지브롤터",
     "status": "assigned"
   },
   {
     "alpha2": "GL",
     "alpha3": "GRL",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+299"
     ],
-    "currencies": [
+    "currencies":
+    [
       "DKK"
     ],
     "emoji": "🇬🇱",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "kal"
     ],
     "name": "Greenland",
+    "korName": "그린란드",
     "status": "assigned"
   },
   {
     "alpha2": "GM",
     "alpha3": "GMB",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+220"
     ],
-    "currencies": [
+    "currencies":
+    [
       "GMD"
     ],
     "emoji": "🇬🇲",
     "ioc": "GAM",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Gambia",
+    "korName": "감비아",
     "status": "assigned"
   },
   {
     "alpha2": "GN",
     "alpha3": "GIN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+224"
     ],
-    "currencies": [
+    "currencies":
+    [
       "GNF"
     ],
     "emoji": "🇬🇳",
     "ioc": "GUI",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "Guinea",
+    "korName": "기니",
     "status": "assigned"
   },
   {
     "alpha2": "GP",
     "alpha3": "GLP",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+590"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇬🇵",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "Guadeloupe",
+    "korName": "과들루프",
     "status": "assigned"
   },
   {
     "alpha2": "GQ",
     "alpha3": "GNQ",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+240"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XAF"
     ],
     "emoji": "🇬🇶",
     "ioc": "GEQ",
-    "languages": [
+    "languages":
+    [
       "spa",
       "fra",
       "por"
     ],
     "name": "Equatorial Guinea",
+    "korName": "적도 기니",
     "status": "assigned"
   },
   {
     "alpha2": "GR",
     "alpha3": "GRC",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+30"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇬🇷",
     "ioc": "GRE",
-    "languages": [
+    "languages":
+    [
       "ell"
     ],
     "name": "Greece",
+    "korName": "그리스",
     "status": "assigned"
   },
   {
     "alpha2": "GS",
     "alpha3": "SGS",
-    "countryCallingCodes": [],
-    "currencies": [
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [
       "GBP"
     ],
     "emoji": "🇬🇸",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "South Georgia And The South Sandwich Islands",
+    "korName": "사우스조지아 사우스샌드위치 제도",
     "status": "assigned"
   },
   {
     "alpha2": "GT",
     "alpha3": "GTM",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+502"
     ],
-    "currencies": [
+    "currencies":
+    [
       "GTQ"
     ],
     "emoji": "🇬🇹",
     "ioc": "GUA",
-    "languages": [
+    "languages":
+    [
       "spa"
     ],
     "name": "Guatemala",
+    "korName": "과테말라",
     "status": "assigned"
   },
   {
     "alpha2": "GU",
     "alpha3": "GUM",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1 671"
     ],
-    "currencies": [
+    "currencies":
+    [
       "USD"
     ],
     "emoji": "🇬🇺",
     "ioc": "GUM",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Guam",
+    "korName": "괌",
     "status": "assigned"
   },
   {
     "alpha2": "GW",
     "alpha3": "GNB",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+245"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XOF"
     ],
     "emoji": "🇬🇼",
     "ioc": "GBS",
-    "languages": [
+    "languages":
+    [
       "por"
     ],
     "name": "Guinea-bissau",
+    "korName": "기니비사우",
     "status": "assigned"
   },
   {
     "alpha2": "GY",
     "alpha3": "GUY",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+592"
     ],
-    "currencies": [
+    "currencies":
+    [
       "GYD"
     ],
     "emoji": "🇬🇾",
     "ioc": "GUY",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Guyana",
+    "korName": "가이아나",
     "status": "assigned"
   },
   {
     "alpha2": "HK",
     "alpha3": "HKG",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+852"
     ],
-    "currencies": [
+    "currencies":
+    [
       "HKD"
     ],
     "emoji": "🇭🇰",
     "ioc": "HKG",
-    "languages": [
+    "languages":
+    [
       "zho",
       "eng"
     ],
     "name": "Hong Kong",
+    "korName": "홍콩(중국 특별행정구)",
     "status": "assigned"
   },
   {
     "alpha2": "HM",
     "alpha3": "HMD",
-    "countryCallingCodes": [],
-    "currencies": [
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [
       "AUD"
     ],
     "emoji": "🇭🇲",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Heard Island And McDonald Islands",
+    "korName": "허드 맥도널드 제도",
     "status": "assigned"
   },
   {
     "alpha2": "HN",
     "alpha3": "HND",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+504"
     ],
-    "currencies": [
+    "currencies":
+    [
       "HNL"
     ],
     "emoji": "🇭🇳",
     "ioc": "HON",
-    "languages": [
+    "languages":
+    [
       "spa"
     ],
     "name": "Honduras",
+    "korName": "온두라스",
     "status": "assigned"
   },
   {
     "alpha2": "HR",
     "alpha3": "HRV",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+385"
     ],
-    "currencies": [
+    "currencies":
+    [
       "HRK"
     ],
     "emoji": "🇭🇷",
     "ioc": "CRO",
-    "languages": [
+    "languages":
+    [
       "hrv"
     ],
     "name": "Croatia",
+    "korName": "크로아티아",
     "status": "assigned"
   },
   {
     "alpha2": "HT",
     "alpha3": "HTI",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+509"
     ],
-    "currencies": [
+    "currencies":
+    [
       "HTG",
       "USD"
     ],
     "emoji": "🇭🇹",
     "ioc": "HAI",
-    "languages": [
+    "languages":
+    [
       "fra",
       "hat"
     ],
     "name": "Haiti",
+    "korName": "아이티",
     "status": "assigned"
   },
   {
     "alpha2": "HU",
     "alpha3": "HUN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+36"
     ],
-    "currencies": [
+    "currencies":
+    [
       "HUF"
     ],
     "emoji": "🇭🇺",
     "ioc": "HUN",
-    "languages": [
+    "languages":
+    [
       "hun"
     ],
     "name": "Hungary",
+    "korName": "헝가리",
     "status": "assigned"
   },
   {
     "alpha2": "HV",
     "alpha3": "HVO",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Upper Volta",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "IC",
     "alpha3": "",
-    "countryCallingCodes": [],
-    "currencies": [
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Canary Islands",
+    "korName": "",
     "status": "reserved"
   },
   {
     "alpha2": "ID",
     "alpha3": "IDN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+62"
     ],
-    "currencies": [
+    "currencies":
+    [
       "IDR"
     ],
     "emoji": "🇮🇩",
     "ioc": "INA",
-    "languages": [
+    "languages":
+    [
       "ind"
     ],
     "name": "Indonesia",
+    "korName": "인도네시아",
     "status": "assigned"
   },
   {
     "alpha2": "IE",
     "alpha3": "IRL",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+353"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇮🇪",
     "ioc": "IRL",
-    "languages": [
+    "languages":
+    [
       "eng",
       "gle"
     ],
     "name": "Ireland",
+    "korName": "아일랜드",
     "status": "assigned"
   },
   {
     "alpha2": "IL",
     "alpha3": "ISR",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+972"
     ],
-    "currencies": [
+    "currencies":
+    [
       "ILS"
     ],
     "emoji": "🇮🇱",
     "ioc": "ISR",
-    "languages": [
+    "languages":
+    [
       "heb",
       "ara",
       "eng"
     ],
     "name": "Israel",
+    "korName": "이스라엘",
     "status": "assigned"
   },
   {
     "alpha2": "IM",
     "alpha3": "IMN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+44"
     ],
-    "currencies": [
+    "currencies":
+    [
       "GBP"
     ],
     "emoji": "🇮🇲",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "eng",
       "glv"
     ],
     "name": "Isle Of Man",
+    "korName": "맨섬",
     "status": "assigned"
   },
   {
     "alpha2": "IN",
     "alpha3": "IND",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+91"
     ],
-    "currencies": [
+    "currencies":
+    [
       "INR"
     ],
     "emoji": "🇮🇳",
     "ioc": "IND",
-    "languages": [
+    "languages":
+    [
       "eng",
       "hin"
     ],
     "name": "India",
+    "korName": "인도",
     "status": "assigned"
   },
   {
     "alpha2": "IO",
     "alpha3": "IOT",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+246"
     ],
-    "currencies": [
+    "currencies":
+    [
       "USD"
     ],
     "emoji": "🇮🇴",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "British Indian Ocean Territory",
+    "korName": "영국령 인도양 식민지",
     "status": "assigned"
   },
   {
     "alpha2": "IQ",
     "alpha3": "IRQ",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+964"
     ],
-    "currencies": [
+    "currencies":
+    [
       "IQD"
     ],
     "emoji": "🇮🇶",
     "ioc": "IRQ",
-    "languages": [
+    "languages":
+    [
       "ara",
       "kur"
     ],
     "name": "Iraq",
+    "korName": "이라크",
     "status": "assigned"
   },
   {
     "alpha2": "IR",
     "alpha3": "IRN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+98"
     ],
-    "currencies": [
+    "currencies":
+    [
       "IRR"
     ],
     "emoji": "🇮🇷",
     "ioc": "IRI",
-    "languages": [
+    "languages":
+    [
       "fas"
     ],
     "name": "Iran, Islamic Republic Of",
+    "korName": "이란",
     "status": "assigned"
   },
   {
     "alpha2": "IS",
     "alpha3": "ISL",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+354"
     ],
-    "currencies": [
+    "currencies":
+    [
       "ISK"
     ],
     "emoji": "🇮🇸",
     "ioc": "ISL",
-    "languages": [
+    "languages":
+    [
       "isl"
     ],
     "name": "Iceland",
+    "korName": "아이슬란드",
     "status": "assigned"
   },
   {
     "alpha2": "IT",
     "alpha3": "ITA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+39"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇮🇹",
     "ioc": "ITA",
-    "languages": [
+    "languages":
+    [
       "ita"
     ],
     "name": "Italy",
+    "korName": "이탈리아",
     "status": "assigned"
   },
   {
     "alpha2": "JE",
     "alpha3": "JEY",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+44"
     ],
-    "currencies": [
+    "currencies":
+    [
       "GBP"
     ],
     "emoji": "🇯🇪",
     "ioc": "JCI",
-    "languages": [
+    "languages":
+    [
       "eng",
       "fra"
     ],
     "name": "Jersey",
+    "korName": "저지",
     "status": "assigned"
   },
   {
     "alpha2": "JM",
     "alpha3": "JAM",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1 876"
     ],
-    "currencies": [
+    "currencies":
+    [
       "JMD"
     ],
     "emoji": "🇯🇲",
     "ioc": "JAM",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Jamaica",
+    "korName": "자메이카",
     "status": "assigned"
   },
   {
     "alpha2": "JO",
     "alpha3": "JOR",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+962"
     ],
-    "currencies": [
+    "currencies":
+    [
       "JOD"
     ],
     "emoji": "🇯🇴",
     "ioc": "JOR",
-    "languages": [
+    "languages":
+    [
       "ara"
     ],
     "name": "Jordan",
+    "korName": "요르단",
     "status": "assigned"
   },
   {
     "alpha2": "JP",
     "alpha3": "JPN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+81"
     ],
-    "currencies": [
+    "currencies":
+    [
       "JPY"
     ],
     "emoji": "🇯🇵",
     "ioc": "JPN",
-    "languages": [
+    "languages":
+    [
       "jpn"
     ],
     "name": "Japan",
+    "korName": "일본",
     "status": "assigned"
   },
   {
     "alpha2": "JT",
     "alpha3": "JTN",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Johnston Island",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "KE",
     "alpha3": "KEN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+254"
     ],
-    "currencies": [
+    "currencies":
+    [
       "KES"
     ],
     "emoji": "🇰🇪",
     "ioc": "KEN",
-    "languages": [
+    "languages":
+    [
       "eng",
       "swa"
     ],
     "name": "Kenya",
+    "korName": "케냐",
     "status": "assigned"
   },
   {
     "alpha2": "KG",
     "alpha3": "KGZ",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+996"
     ],
-    "currencies": [
+    "currencies":
+    [
       "KGS"
     ],
     "emoji": "🇰🇬",
     "ioc": "KGZ",
-    "languages": [
+    "languages":
+    [
       "rus"
     ],
     "name": "Kyrgyzstan",
+    "korName": "키르기스스탄",
     "status": "assigned"
   },
   {
     "alpha2": "KH",
     "alpha3": "KHM",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+855"
     ],
-    "currencies": [
+    "currencies":
+    [
       "KHR"
     ],
     "emoji": "🇰🇭",
     "ioc": "CAM",
-    "languages": [
+    "languages":
+    [
       "khm"
     ],
     "name": "Cambodia",
+    "korName": "캄보디아",
     "status": "assigned"
   },
   {
     "alpha2": "KI",
     "alpha3": "KIR",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+686"
     ],
-    "currencies": [
+    "currencies":
+    [
       "AUD"
     ],
     "emoji": "🇰🇮",
     "ioc": "KIR",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Kiribati",
+    "korName": "키리바시",
     "status": "assigned"
   },
   {
     "alpha2": "KM",
     "alpha3": "COM",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+269"
     ],
-    "currencies": [
+    "currencies":
+    [
       "KMF"
     ],
     "emoji": "🇰🇲",
     "ioc": "COM",
-    "languages": [
+    "languages":
+    [
       "ara",
       "fra"
     ],
     "name": "Comoros",
+    "korName": "코모로",
     "status": "assigned"
   },
   {
     "alpha2": "KN",
     "alpha3": "KNA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1 869"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XCD"
     ],
     "emoji": "🇰🇳",
     "ioc": "SKN",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Saint Kitts And Nevis",
+    "korName": "세인트키츠 네비스",
     "status": "assigned"
   },
   {
     "alpha2": "KP",
     "alpha3": "PRK",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+850"
     ],
-    "currencies": [
+    "currencies":
+    [
       "KPW"
     ],
     "emoji": "🇰🇵",
     "ioc": "PRK",
-    "languages": [
+    "languages":
+    [
       "kor"
     ],
     "name": "Korea, Democratic People's Republic Of",
+    "korName": "북한",
     "status": "assigned"
   },
   {
     "alpha2": "KR",
     "alpha3": "KOR",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+82"
     ],
-    "currencies": [
+    "currencies":
+    [
       "KRW"
     ],
     "emoji": "🇰🇷",
     "ioc": "KOR",
-    "languages": [
+    "languages":
+    [
       "kor"
     ],
     "name": "Korea, Republic Of",
+    "korName": "대한민국",
     "status": "assigned"
   },
   {
     "alpha2": "KW",
     "alpha3": "KWT",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+965"
     ],
-    "currencies": [
+    "currencies":
+    [
       "KWD"
     ],
     "emoji": "🇰🇼",
     "ioc": "KUW",
-    "languages": [
+    "languages":
+    [
       "ara"
     ],
     "name": "Kuwait",
+    "korName": "쿠웨이트",
     "status": "assigned"
   },
   {
     "alpha2": "KY",
     "alpha3": "CYM",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1 345"
     ],
-    "currencies": [
+    "currencies":
+    [
       "KYD"
     ],
     "emoji": "🇰🇾",
     "ioc": "CAY",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Cayman Islands",
+    "korName": "케이맨 제도",
     "status": "assigned"
   },
   {
     "alpha2": "KZ",
     "alpha3": "KAZ",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+7",
       "+7 6",
       "+7 7"
     ],
-    "currencies": [
+    "currencies":
+    [
       "KZT"
     ],
     "emoji": "🇰🇿",
     "ioc": "KAZ",
-    "languages": [
+    "languages":
+    [
       "kaz",
       "rus"
     ],
     "name": "Kazakhstan",
+    "korName": "카자흐스탄",
     "status": "assigned"
   },
   {
     "alpha2": "LA",
     "alpha3": "LAO",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+856"
     ],
-    "currencies": [
+    "currencies":
+    [
       "LAK"
     ],
     "emoji": "🇱🇦",
     "ioc": "LAO",
-    "languages": [
+    "languages":
+    [
       "lao"
     ],
     "name": "Lao People's Democratic Republic",
+    "korName": "라오스",
     "status": "assigned"
   },
   {
     "alpha2": "LB",
     "alpha3": "LBN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+961"
     ],
-    "currencies": [
+    "currencies":
+    [
       "LBP"
     ],
     "emoji": "🇱🇧",
     "ioc": "LIB",
-    "languages": [
+    "languages":
+    [
       "ara",
       "hye"
     ],
     "name": "Lebanon",
+    "korName": "레바논",
     "status": "assigned"
   },
   {
     "alpha2": "LC",
     "alpha3": "LCA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1 758"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XCD"
     ],
     "emoji": "🇱🇨",
     "ioc": "LCA",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Saint Lucia",
+    "korName": "세인트루시아",
     "status": "assigned"
   },
   {
     "alpha2": "LI",
     "alpha3": "LIE",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+423"
     ],
-    "currencies": [
+    "currencies":
+    [
       "CHF"
     ],
     "emoji": "🇱🇮",
     "ioc": "LIE",
-    "languages": [
+    "languages":
+    [
       "deu"
     ],
     "name": "Liechtenstein",
+    "korName": "리히텐슈타인",
     "status": "assigned"
   },
   {
     "alpha2": "LK",
     "alpha3": "LKA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+94"
     ],
-    "currencies": [
+    "currencies":
+    [
       "LKR"
     ],
     "emoji": "🇱🇰",
     "ioc": "SRI",
-    "languages": [
+    "languages":
+    [
       "sin",
       "tam"
     ],
     "name": "Sri Lanka",
+    "korName": "스리랑카",
     "status": "assigned"
   },
   {
     "alpha2": "LR",
     "alpha3": "LBR",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+231"
     ],
-    "currencies": [
+    "currencies":
+    [
       "LRD"
     ],
     "emoji": "🇱🇷",
     "ioc": "LBR",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Liberia",
+    "korName": "라이베리아",
     "status": "assigned"
   },
   {
     "alpha2": "LS",
     "alpha3": "LSO",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+266"
     ],
-    "currencies": [
+    "currencies":
+    [
       "LSL",
       "ZAR"
     ],
     "emoji": "🇱🇸",
     "ioc": "LES",
-    "languages": [
+    "languages":
+    [
       "eng",
       "sot"
     ],
     "name": "Lesotho",
+    "korName": "레소토",
     "status": "assigned"
   },
   {
     "alpha2": "LT",
     "alpha3": "LTU",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+370"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇱🇹",
     "ioc": "LTU",
-    "languages": [
+    "languages":
+    [
       "lit"
     ],
     "name": "Lithuania",
+    "korName": "리투아니아",
     "status": "assigned"
   },
   {
     "alpha2": "LU",
     "alpha3": "LUX",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+352"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇱🇺",
     "ioc": "LUX",
-    "languages": [
+    "languages":
+    [
       "fra",
       "deu",
       "ltz"
     ],
     "name": "Luxembourg",
+    "korName": "룩셈부르크",
     "status": "assigned"
   },
   {
     "alpha2": "LV",
     "alpha3": "LVA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+371"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇱🇻",
     "ioc": "LAT",
-    "languages": [
+    "languages":
+    [
       "lav"
     ],
     "name": "Latvia",
+    "korName": "라트비아",
     "status": "assigned"
   },
   {
     "alpha2": "LY",
     "alpha3": "LBY",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+218"
     ],
-    "currencies": [
+    "currencies":
+    [
       "LYD"
     ],
     "emoji": "🇱🇾",
     "ioc": "LBA",
-    "languages": [
+    "languages":
+    [
       "ara"
     ],
     "name": "Libya",
+    "korName": "리비아",
     "status": "assigned"
   },
   {
     "alpha2": "MA",
     "alpha3": "MAR",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+212"
     ],
-    "currencies": [
+    "currencies":
+    [
       "MAD"
     ],
     "emoji": "🇲🇦",
     "ioc": "MAR",
-    "languages": [
+    "languages":
+    [
       "ara"
     ],
     "name": "Morocco",
+    "korName": "모로코",
     "status": "assigned"
   },
   {
     "alpha2": "MC",
     "alpha3": "MCO",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+377"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇲🇨",
     "ioc": "MON",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "Monaco",
+    "korName": "모나코",
     "status": "assigned"
   },
   {
     "alpha2": "MD",
     "alpha3": "MDA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+373"
     ],
-    "currencies": [
+    "currencies":
+    [
       "MDL"
     ],
     "emoji": "🇲🇩",
     "ioc": "MDA",
-    "languages": [
+    "languages":
+    [
       "ron"
     ],
     "name": "Moldova",
+    "korName": "몰도바",
     "status": "assigned"
   },
   {
     "alpha2": "ME",
     "alpha3": "MNE",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+382"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇲🇪",
     "ioc": "MNE",
-    "languages": [
+    "languages":
+    [
       "mot"
     ],
     "name": "Montenegro",
+    "korName": "몬테네그로",
     "status": "assigned"
   },
   {
     "alpha2": "MF",
     "alpha3": "MAF",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+590"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇲🇫",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "Saint Martin",
+    "korName": "생마르탱",
     "status": "assigned"
   },
   {
     "alpha2": "MG",
     "alpha3": "MDG",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+261"
     ],
-    "currencies": [
+    "currencies":
+    [
       "MGA"
     ],
     "emoji": "🇲🇬",
     "ioc": "MAD",
-    "languages": [
+    "languages":
+    [
       "fra",
       "mlg"
     ],
     "name": "Madagascar",
+    "korName": "마다가스카르",
     "status": "assigned"
   },
   {
     "alpha2": "MH",
     "alpha3": "MHL",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+692"
     ],
-    "currencies": [
+    "currencies":
+    [
       "USD"
     ],
     "emoji": "🇲🇭",
     "ioc": "MHL",
-    "languages": [
+    "languages":
+    [
       "eng",
       "mah"
     ],
     "name": "Marshall Islands",
+    "korName": "마셜 제도",
     "status": "assigned"
   },
   {
     "alpha2": "MI",
     "alpha3": "MID",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Midway Islands",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "MK",
     "alpha3": "MKD",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+389"
     ],
-    "currencies": [
+    "currencies":
+    [
       "MKD"
     ],
     "emoji": "🇲🇰",
     "ioc": "MKD",
-    "languages": [
+    "languages":
+    [
       "mkd"
     ],
     "name": "Macedonia, The Former Yugoslav Republic Of",
+    "korName": "북마케도니아",
     "status": "assigned"
   },
   {
     "alpha2": "ML",
     "alpha3": "MLI",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+223"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XOF"
     ],
     "emoji": "🇲🇱",
     "ioc": "MLI",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "Mali",
+    "korName": "말리",
     "status": "assigned"
   },
   {
     "alpha2": "MM",
     "alpha3": "MMR",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+95"
     ],
-    "currencies": [
+    "currencies":
+    [
       "MMK"
     ],
     "emoji": "🇲🇲",
     "ioc": "MYA",
-    "languages": [
+    "languages":
+    [
       "mya"
     ],
     "name": "Myanmar",
+    "korName": "미얀마",
     "status": "assigned"
   },
   {
     "alpha2": "MN",
     "alpha3": "MNG",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+976"
     ],
-    "currencies": [
+    "currencies":
+    [
       "MNT"
     ],
     "emoji": "🇲🇳",
     "ioc": "MGL",
-    "languages": [
+    "languages":
+    [
       "mon"
     ],
     "name": "Mongolia",
+    "korName": "몽골",
     "status": "assigned"
   },
   {
     "alpha2": "MO",
     "alpha3": "MAC",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+853"
     ],
-    "currencies": [
+    "currencies":
+    [
       "MOP"
     ],
     "emoji": "🇲🇴",
     "ioc": "MAC",
-    "languages": [
+    "languages":
+    [
       "zho",
       "por"
     ],
     "name": "Macao",
+    "korName": "마카오(중국 특별행정구)",
     "status": "assigned"
   },
   {
     "alpha2": "MP",
     "alpha3": "MNP",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1 670"
     ],
-    "currencies": [
+    "currencies":
+    [
       "USD"
     ],
     "emoji": "🇲🇵",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Northern Mariana Islands",
+    "korName": "북마리아나제도",
     "status": "assigned"
   },
   {
     "alpha2": "MQ",
     "alpha3": "MTQ",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+596"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇲🇶",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Martinique",
+    "korName": "마르티니크",
     "status": "assigned"
   },
   {
     "alpha2": "MR",
     "alpha3": "MRT",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+222"
     ],
-    "currencies": [
+    "currencies":
+    [
       "MRO"
     ],
     "emoji": "🇲🇷",
     "ioc": "MTN",
-    "languages": [
+    "languages":
+    [
       "ara",
       "fra"
     ],
     "name": "Mauritania",
+    "korName": "모리타니",
     "status": "assigned"
   },
   {
     "alpha2": "MS",
     "alpha3": "MSR",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1 664"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XCD"
     ],
     "emoji": "🇲🇸",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Montserrat",
+    "korName": "몬트세라트",
     "status": "assigned"
   },
   {
     "alpha2": "MT",
     "alpha3": "MLT",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+356"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇲🇹",
     "ioc": "MLT",
-    "languages": [
+    "languages":
+    [
       "mlt",
       "eng"
     ],
     "name": "Malta",
+    "korName": "몰타",
     "status": "assigned"
   },
   {
     "alpha2": "MU",
     "alpha3": "MUS",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+230"
     ],
-    "currencies": [
+    "currencies":
+    [
       "MUR"
     ],
     "emoji": "🇲🇺",
     "ioc": "MRI",
-    "languages": [
+    "languages":
+    [
       "eng",
       "fra"
     ],
     "name": "Mauritius",
+    "korName": "모리셔스",
     "status": "assigned"
   },
   {
     "alpha2": "MV",
     "alpha3": "MDV",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+960"
     ],
-    "currencies": [
+    "currencies":
+    [
       "MVR"
     ],
     "emoji": "🇲🇻",
     "ioc": "MDV",
-    "languages": [
+    "languages":
+    [
       "div"
     ],
     "name": "Maldives",
+    "korName": "몰디브",
     "status": "assigned"
   },
   {
     "alpha2": "MW",
     "alpha3": "MWI",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+265"
     ],
-    "currencies": [
+    "currencies":
+    [
       "MWK"
     ],
     "emoji": "🇲🇼",
     "ioc": "MAW",
-    "languages": [
+    "languages":
+    [
       "eng",
       "nya"
     ],
     "name": "Malawi",
+    "korName": "말라위",
     "status": "assigned"
   },
   {
     "alpha2": "MX",
     "alpha3": "MEX",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+52"
     ],
-    "currencies": [
+    "currencies":
+    [
       "MXN",
       "MXV"
     ],
     "emoji": "🇲🇽",
     "ioc": "MEX",
-    "languages": [
+    "languages":
+    [
       "spa"
     ],
     "name": "Mexico",
+    "korName": "멕시코",
     "status": "assigned"
   },
   {
     "alpha2": "MY",
     "alpha3": "MYS",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+60"
     ],
-    "currencies": [
+    "currencies":
+    [
       "MYR"
     ],
     "emoji": "🇲🇾",
     "ioc": "MAS",
-    "languages": [
+    "languages":
+    [
       "msa",
       "eng"
     ],
     "name": "Malaysia",
+    "korName": "말레이시아",
     "status": "assigned"
   },
   {
     "alpha2": "MZ",
     "alpha3": "MOZ",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+258"
     ],
-    "currencies": [
+    "currencies":
+    [
       "MZN"
     ],
     "emoji": "🇲🇿",
     "ioc": "MOZ",
-    "languages": [
+    "languages":
+    [
       "por"
     ],
     "name": "Mozambique",
+    "korName": "모잠비크",
     "status": "assigned"
   },
   {
     "alpha2": "NA",
     "alpha3": "NAM",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+264"
     ],
-    "currencies": [
+    "currencies":
+    [
       "NAD",
       "ZAR"
     ],
     "emoji": "🇳🇦",
     "ioc": "NAM",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Namibia",
+    "korName": "나미비아",
     "status": "assigned"
   },
   {
     "alpha2": "NC",
     "alpha3": "NCL",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+687"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XPF"
     ],
     "emoji": "🇳🇨",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "New Caledonia",
+    "korName": "뉴칼레도니아",
     "status": "assigned"
   },
   {
     "alpha2": "NE",
     "alpha3": "NER",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+227"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XOF"
     ],
     "emoji": "🇳🇪",
     "ioc": "NIG",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "Niger",
+    "korName": "니제르",
     "status": "assigned"
   },
   {
     "alpha2": "NF",
     "alpha3": "NFK",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+672"
     ],
-    "currencies": [
+    "currencies":
+    [
       "AUD"
     ],
     "emoji": "🇳🇫",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Norfolk Island",
+    "korName": "노퍽섬",
     "status": "assigned"
   },
   {
     "alpha2": "NG",
     "alpha3": "NGA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+234"
     ],
-    "currencies": [
+    "currencies":
+    [
       "NGN"
     ],
     "emoji": "🇳🇬",
     "ioc": "NGR",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Nigeria",
+    "korName": "나이지리아",
     "status": "assigned"
   },
   {
     "alpha2": "NH",
     "alpha3": "NHB",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "New Hebrides",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "NI",
     "alpha3": "NIC",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+505"
     ],
-    "currencies": [
+    "currencies":
+    [
       "NIO"
     ],
     "emoji": "🇳🇮",
     "ioc": "NCA",
-    "languages": [
+    "languages":
+    [
       "spa"
     ],
     "name": "Nicaragua",
+    "korName": "니카라과",
     "status": "assigned"
   },
   {
     "alpha2": "NL",
     "alpha3": "NLD",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+31"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇳🇱",
     "ioc": "NED",
-    "languages": [
+    "languages":
+    [
       "nld"
     ],
     "name": "Netherlands",
+    "korName": "네덜란드",
     "status": "assigned"
   },
   {
     "alpha2": "NO",
     "alpha3": "NOR",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+47"
     ],
-    "currencies": [
+    "currencies":
+    [
       "NOK"
     ],
     "emoji": "🇳🇴",
     "ioc": "NOR",
-    "languages": [
+    "languages":
+    [
       "nor"
     ],
     "name": "Norway",
+    "korName": "노르웨이",
     "status": "assigned"
   },
   {
     "alpha2": "NP",
     "alpha3": "NPL",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+977"
     ],
-    "currencies": [
+    "currencies":
+    [
       "NPR"
     ],
     "emoji": "🇳🇵",
     "ioc": "NEP",
-    "languages": [
+    "languages":
+    [
       "nep"
     ],
     "name": "Nepal",
+    "korName": "네팔",
     "status": "assigned"
   },
   {
     "alpha2": "NQ",
     "alpha3": "ATN",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Dronning Maud Land",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "NR",
     "alpha3": "NRU",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+674"
     ],
-    "currencies": [
+    "currencies":
+    [
       "AUD"
     ],
     "emoji": "🇳🇷",
     "ioc": "NRU",
-    "languages": [
+    "languages":
+    [
       "eng",
       "nau"
     ],
     "name": "Nauru",
+    "korName": "나우루",
     "status": "assigned"
   },
   {
     "alpha2": "NT",
     "alpha3": "NTZ",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Neutral Zone",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "NU",
     "alpha3": "NIU",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+683"
     ],
-    "currencies": [
+    "currencies":
+    [
       "NZD"
     ],
     "emoji": "🇳🇺",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Niue",
+    "korName": "니우에",
     "status": "assigned"
   },
   {
     "alpha2": "NZ",
     "alpha3": "NZL",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+64"
     ],
-    "currencies": [
+    "currencies":
+    [
       "NZD"
     ],
     "emoji": "🇳🇿",
     "ioc": "NZL",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "New Zealand",
+    "korName": "뉴질랜드",
     "status": "assigned"
   },
   {
     "alpha2": "OM",
     "alpha3": "OMN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+968"
     ],
-    "currencies": [
+    "currencies":
+    [
       "OMR"
     ],
     "emoji": "🇴🇲",
     "ioc": "OMA",
-    "languages": [
+    "languages":
+    [
       "ara"
     ],
     "name": "Oman",
+    "korName": "오만",
     "status": "assigned"
   },
   {
     "alpha2": "PA",
     "alpha3": "PAN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+507"
     ],
-    "currencies": [
+    "currencies":
+    [
       "PAB",
       "USD"
     ],
     "emoji": "🇵🇦",
     "ioc": "PAN",
-    "languages": [
+    "languages":
+    [
       "spa"
     ],
     "name": "Panama",
+    "korName": "파나마",
     "status": "assigned"
   },
   {
     "alpha2": "PC",
     "alpha3": "PCI",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Pacific Islands, Trust Territory of the",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "PE",
     "alpha3": "PER",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+51"
     ],
-    "currencies": [
+    "currencies":
+    [
       "PEN"
     ],
     "emoji": "🇵🇪",
     "ioc": "PER",
-    "languages": [
+    "languages":
+    [
       "spa",
       "aym",
       "que"
     ],
     "name": "Peru",
+    "korName": "페루",
     "status": "assigned"
   },
   {
     "alpha2": "PF",
     "alpha3": "PYF",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+689"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XPF"
     ],
     "emoji": "🇵🇫",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "French Polynesia",
+    "korName": "프랑스령 폴리네시아",
     "status": "assigned"
   },
   {
     "alpha2": "PG",
     "alpha3": "PNG",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+675"
     ],
-    "currencies": [
+    "currencies":
+    [
       "PGK"
     ],
     "emoji": "🇵🇬",
     "ioc": "PNG",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Papua New Guinea",
+    "korName": "파푸아뉴기니",
     "status": "assigned"
   },
   {
     "alpha2": "PH",
     "alpha3": "PHL",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+63"
     ],
-    "currencies": [
+    "currencies":
+    [
       "PHP"
     ],
     "emoji": "🇵🇭",
     "ioc": "PHI",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Philippines",
+    "korName": "필리핀",
     "status": "assigned"
   },
   {
     "alpha2": "PK",
     "alpha3": "PAK",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+92"
     ],
-    "currencies": [
+    "currencies":
+    [
       "PKR"
     ],
     "emoji": "🇵🇰",
     "ioc": "PAK",
-    "languages": [
+    "languages":
+    [
       "urd",
       "eng"
     ],
     "name": "Pakistan",
+    "korName": "파키스탄",
     "status": "assigned"
   },
   {
     "alpha2": "PL",
     "alpha3": "POL",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+48"
     ],
-    "currencies": [
+    "currencies":
+    [
       "PLN"
     ],
     "emoji": "🇵🇱",
     "ioc": "POL",
-    "languages": [
+    "languages":
+    [
       "pol"
     ],
     "name": "Poland",
+    "korName": "폴란드",
     "status": "assigned"
   },
   {
     "alpha2": "PM",
     "alpha3": "SPM",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+508"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇵🇲",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Saint Pierre And Miquelon",
+    "korName": "생피에르 미클롱",
     "status": "assigned"
   },
   {
     "alpha2": "PN",
     "alpha3": "PCN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+872"
     ],
-    "currencies": [
+    "currencies":
+    [
       "NZD"
     ],
     "emoji": "🇵🇳",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Pitcairn",
+    "korName": "핏케언 제도",
     "status": "assigned"
   },
   {
     "alpha2": "PR",
     "alpha3": "PRI",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1 787",
       "+1 939"
     ],
-    "currencies": [
+    "currencies":
+    [
       "USD"
     ],
     "emoji": "🇵🇷",
     "ioc": "PUR",
-    "languages": [
+    "languages":
+    [
       "spa",
       "eng"
     ],
     "name": "Puerto Rico",
+    "korName": "푸에르토리코",
     "status": "assigned"
   },
   {
     "alpha2": "PS",
     "alpha3": "PSE",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+970"
     ],
-    "currencies": [
+    "currencies":
+    [
       "JOD",
       "EGP",
       "ILS"
     ],
     "emoji": "🇵🇸",
     "ioc": "PLE",
-    "languages": [
+    "languages":
+    [
       "ara"
     ],
     "name": "Palestinian Territory, Occupied",
+    "korName": "팔레스타인 지구",
     "status": "assigned"
   },
   {
     "alpha2": "PT",
     "alpha3": "PRT",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+351"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇵🇹",
     "ioc": "POR",
-    "languages": [
+    "languages":
+    [
       "por"
     ],
     "name": "Portugal",
+    "korName": "포르투갈",
     "status": "assigned"
   },
   {
     "alpha2": "PU",
     "alpha3": "PUS",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "U.S. Miscellaneous Pacific Islands",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "PW",
     "alpha3": "PLW",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+680"
     ],
-    "currencies": [
+    "currencies":
+    [
       "USD"
     ],
     "emoji": "🇵🇼",
     "ioc": "PLW",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Palau",
+    "korName": "팔라우",
     "status": "assigned"
   },
   {
     "alpha2": "PY",
     "alpha3": "PRY",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+595"
     ],
-    "currencies": [
+    "currencies":
+    [
       "PYG"
     ],
     "emoji": "🇵🇾",
     "ioc": "PAR",
-    "languages": [
+    "languages":
+    [
       "spa"
     ],
     "name": "Paraguay",
+    "korName": "파라과이",
     "status": "assigned"
   },
   {
     "alpha2": "PZ",
     "alpha3": "PCZ",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Panama Canal Zone",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "QA",
     "alpha3": "QAT",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+974"
     ],
-    "currencies": [
+    "currencies":
+    [
       "QAR"
     ],
     "emoji": "🇶🇦",
     "ioc": "QAT",
-    "languages": [
+    "languages":
+    [
       "ara"
     ],
     "name": "Qatar",
+    "korName": "카타르",
     "status": "assigned"
   },
   {
     "alpha2": "RE",
     "alpha3": "REU",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+262"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇷🇪",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "Reunion",
+    "korName": "레위니옹",
     "status": "assigned"
   },
   {
     "alpha2": "RH",
     "alpha3": "RHO",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Southern Rhodesia",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "RO",
     "alpha3": "ROU",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+40"
     ],
-    "currencies": [
+    "currencies":
+    [
       "RON"
     ],
     "emoji": "🇷🇴",
     "ioc": "ROU",
-    "languages": [
+    "languages":
+    [
       "ron"
     ],
     "name": "Romania",
+    "korName": "루마니아",
     "status": "assigned"
   },
   {
     "alpha2": "RS",
     "alpha3": "SRB",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+381"
     ],
-    "currencies": [
+    "currencies":
+    [
       "RSD"
     ],
     "emoji": "🇷🇸",
     "ioc": "SRB",
-    "languages": [
+    "languages":
+    [
       "srp"
     ],
     "name": "Serbia",
+    "korName": "세르비아",
     "status": "assigned"
   },
   {
     "alpha2": "RU",
     "alpha3": "RUS",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+7",
       "+7 3",
       "+7 4",
       "+7 8"
     ],
-    "currencies": [
+    "currencies":
+    [
       "RUB"
     ],
     "emoji": "🇷🇺",
     "ioc": "RUS",
-    "languages": [
+    "languages":
+    [
       "rus"
     ],
     "name": "Russian Federation",
+    "korName": "러시아",
     "status": "assigned"
   },
   {
     "alpha2": "RW",
     "alpha3": "RWA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+250"
     ],
-    "currencies": [
+    "currencies":
+    [
       "RWF"
     ],
     "emoji": "🇷🇼",
     "ioc": "RWA",
-    "languages": [
+    "languages":
+    [
       "eng",
       "fra",
       "kin"
     ],
     "name": "Rwanda",
+    "korName": "르완다",
     "status": "assigned"
   },
   {
     "alpha2": "SA",
     "alpha3": "SAU",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+966"
     ],
-    "currencies": [
+    "currencies":
+    [
       "SAR"
     ],
     "emoji": "🇸🇦",
     "ioc": "KSA",
-    "languages": [
+    "languages":
+    [
       "ara"
     ],
     "name": "Saudi Arabia",
+    "korName": "사우디아라비아",
     "status": "assigned"
   },
   {
     "alpha2": "SB",
     "alpha3": "SLB",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+677"
     ],
-    "currencies": [
+    "currencies":
+    [
       "SBD"
     ],
     "emoji": "🇸🇧",
     "ioc": "SOL",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Solomon Islands",
+    "korName": "솔로몬 제도",
     "status": "assigned"
   },
   {
     "alpha2": "SC",
     "alpha3": "SYC",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+248"
     ],
-    "currencies": [
+    "currencies":
+    [
       "SCR"
     ],
     "emoji": "🇸🇨",
     "ioc": "SEY",
-    "languages": [
+    "languages":
+    [
       "eng",
       "fra"
     ],
     "name": "Seychelles",
+    "korName": "세이셸",
     "status": "assigned"
   },
   {
     "alpha2": "SD",
     "alpha3": "SDN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+249"
     ],
-    "currencies": [
+    "currencies":
+    [
       "SDG"
     ],
     "emoji": "🇸🇩",
     "ioc": "SUD",
-    "languages": [
+    "languages":
+    [
       "ara",
       "eng"
     ],
     "name": "Sudan",
+    "korName": "수단",
     "status": "assigned"
   },
   {
     "alpha2": "SE",
     "alpha3": "SWE",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+46"
     ],
-    "currencies": [
+    "currencies":
+    [
       "SEK"
     ],
     "emoji": "🇸🇪",
     "ioc": "SWE",
-    "languages": [
+    "languages":
+    [
       "swe"
     ],
     "name": "Sweden",
+    "korName": "스웨덴",
     "status": "assigned"
   },
   {
     "alpha2": "SG",
     "alpha3": "SGP",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+65"
     ],
-    "currencies": [
+    "currencies":
+    [
       "SGD"
     ],
     "emoji": "🇸🇬",
     "ioc": "SIN",
-    "languages": [
+    "languages":
+    [
       "eng",
       "zho",
       "msa",
       "tam"
     ],
     "name": "Singapore",
+    "korName": "싱가포르",
     "status": "assigned"
   },
   {
     "alpha2": "SH",
     "alpha3": "SHN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+290"
     ],
-    "currencies": [
+    "currencies":
+    [
       "SHP"
     ],
     "emoji": "🇸🇭",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Saint Helena, Ascension And Tristan Da Cunha",
+    "korName": "세인트헬레나",
     "status": "assigned"
   },
   {
     "alpha2": "SI",
     "alpha3": "SVN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+386"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇸🇮",
     "ioc": "SLO",
-    "languages": [
+    "languages":
+    [
       "slv"
     ],
     "name": "Slovenia",
+    "korName": "슬로베니아",
     "status": "assigned"
   },
   {
     "alpha2": "SJ",
     "alpha3": "SJM",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+47"
     ],
-    "currencies": [
+    "currencies":
+    [
       "NOK"
     ],
     "emoji": "🇸🇯",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Svalbard And Jan Mayen",
+    "korName": "스발바르제도-얀마웬섬",
     "status": "assigned"
   },
   {
     "alpha2": "SK",
     "alpha3": "SVK",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+421"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇸🇰",
     "ioc": "SVK",
-    "languages": [
+    "languages":
+    [
       "slk"
     ],
     "name": "Slovakia",
+    "korName": "슬로바키아",
     "status": "assigned"
   },
   {
     "alpha2": "SK",
     "alpha3": "SKM",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Sikkim",
+    "korName": "슬로바키아",
     "status": "deleted"
   },
   {
     "alpha2": "SL",
     "alpha3": "SLE",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+232"
     ],
-    "currencies": [
+    "currencies":
+    [
       "SLL"
     ],
     "emoji": "🇸🇱",
     "ioc": "SLE",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Sierra Leone",
+    "korName": "시에라리온",
     "status": "assigned"
   },
   {
     "alpha2": "SM",
     "alpha3": "SMR",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+378"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇸🇲",
     "ioc": "SMR",
-    "languages": [
+    "languages":
+    [
       "ita"
     ],
     "name": "San Marino",
+    "korName": "산마리노",
     "status": "assigned"
   },
   {
     "alpha2": "SN",
     "alpha3": "SEN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+221"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XOF"
     ],
     "emoji": "🇸🇳",
     "ioc": "SEN",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "Senegal",
+    "korName": "세네갈",
     "status": "assigned"
   },
   {
     "alpha2": "SO",
     "alpha3": "SOM",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+252"
     ],
-    "currencies": [
+    "currencies":
+    [
       "SOS"
     ],
     "emoji": "🇸🇴",
     "ioc": "SOM",
-    "languages": [
+    "languages":
+    [
       "som"
     ],
     "name": "Somalia",
+    "korName": "소말리아",
     "status": "assigned"
   },
   {
     "alpha2": "SR",
     "alpha3": "SUR",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+597"
     ],
-    "currencies": [
+    "currencies":
+    [
       "SRD"
     ],
     "emoji": "🇸🇷",
     "ioc": "SUR",
-    "languages": [
+    "languages":
+    [
       "nld"
     ],
     "name": "Suriname",
+    "korName": "수리남",
     "status": "assigned"
   },
   {
     "alpha2": "SS",
     "alpha3": "SSD",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+211"
     ],
-    "currencies": [
+    "currencies":
+    [
       "SSP"
     ],
     "emoji": "🇸🇸",
     "ioc": "SSD",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "South Sudan",
+    "korName": "남수단",
     "status": "assigned"
   },
   {
     "alpha2": "ST",
     "alpha3": "STP",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+239"
     ],
-    "currencies": [
+    "currencies":
+    [
       "STD"
     ],
     "emoji": "🇸🇹",
     "ioc": "STP",
-    "languages": [
+    "languages":
+    [
       "por"
     ],
     "name": "Sao Tome and Principe",
+    "korName": "상투메 프린시페",
     "status": "assigned"
   },
   {
     "alpha2": "SU",
     "alpha3": "",
-    "countryCallingCodes": [],
-    "currencies": [
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [
       "RUB"
     ],
     "emoji": "",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "rus"
     ],
     "name": "USSR",
+    "korName": "",
     "status": "reserved"
   },
   {
     "alpha2": "SV",
     "alpha3": "SLV",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+503"
     ],
-    "currencies": [
+    "currencies":
+    [
       "USD"
     ],
     "emoji": "🇸🇻",
     "ioc": "ESA",
-    "languages": [
+    "languages":
+    [
       "spa"
     ],
     "name": "El Salvador",
+    "korName": "엘살바도르",
     "status": "assigned"
   },
   {
     "alpha2": "SX",
     "alpha3": "SXM",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1 721"
     ],
-    "currencies": [
+    "currencies":
+    [
       "ANG"
     ],
     "emoji": "🇸🇽",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "nld"
     ],
     "name": "Sint Maarten",
+    "korName": "신트마르턴",
     "status": "assigned"
   },
   {
     "alpha2": "SY",
     "alpha3": "SYR",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+963"
     ],
-    "currencies": [
+    "currencies":
+    [
       "SYP"
     ],
     "emoji": "🇸🇾",
     "ioc": "SYR",
-    "languages": [
+    "languages":
+    [
       "ara"
     ],
     "name": "Syrian Arab Republic",
+    "korName": "시리아",
     "status": "assigned"
   },
   {
     "alpha2": "SZ",
     "alpha3": "SWZ",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+268"
     ],
-    "currencies": [
+    "currencies":
+    [
       "SZL"
     ],
     "emoji": "🇸🇿",
     "ioc": "SWZ",
-    "languages": [
+    "languages":
+    [
       "eng",
       "ssw"
     ],
     "name": "Swaziland",
+    "korName": "에스와티니",
     "status": "assigned"
   },
   {
     "alpha2": "TA",
     "alpha3": "",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+290"
     ],
-    "currencies": [
+    "currencies":
+    [
       "GBP"
     ],
     "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Tristan de Cunha",
+    "korName": "",
     "status": "reserved"
   },
   {
     "alpha2": "TC",
     "alpha3": "TCA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1 649"
     ],
-    "currencies": [
+    "currencies":
+    [
       "USD"
     ],
     "emoji": "🇹🇨",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Turks And Caicos Islands",
+    "korName": "터크스 케이커스 제도",
     "status": "assigned"
   },
   {
     "alpha2": "TD",
     "alpha3": "TCD",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+235"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XAF"
     ],
     "emoji": "🇹🇩",
     "ioc": "CHA",
-    "languages": [
+    "languages":
+    [
       "ara",
       "fra"
     ],
     "name": "Chad",
+    "korName": "차드",
     "status": "assigned"
   },
   {
     "alpha2": "TF",
     "alpha3": "ATF",
-    "countryCallingCodes": [],
-    "currencies": [
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇹🇫",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "French Southern Territories",
+    "korName": "프랑스 남부 지방",
     "status": "assigned"
   },
   {
     "alpha2": "TG",
     "alpha3": "TGO",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+228"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XOF"
     ],
     "emoji": "🇹🇬",
     "ioc": "TOG",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "Togo",
+    "korName": "토고",
     "status": "assigned"
   },
   {
     "alpha2": "TH",
     "alpha3": "THA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+66"
     ],
-    "currencies": [
+    "currencies":
+    [
       "THB"
     ],
     "emoji": "🇹🇭",
     "ioc": "THA",
-    "languages": [
+    "languages":
+    [
       "tha"
     ],
     "name": "Thailand",
+    "korName": "태국",
     "status": "assigned"
   },
   {
     "alpha2": "TJ",
     "alpha3": "TJK",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+992"
     ],
-    "currencies": [
+    "currencies":
+    [
       "TJS"
     ],
     "emoji": "🇹🇯",
     "ioc": "TJK",
-    "languages": [
+    "languages":
+    [
       "tgk",
       "rus"
     ],
     "name": "Tajikistan",
+    "korName": "타지키스탄",
     "status": "assigned"
   },
   {
     "alpha2": "TK",
     "alpha3": "TKL",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+690"
     ],
-    "currencies": [
+    "currencies":
+    [
       "NZD"
     ],
     "emoji": "🇹🇰",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Tokelau",
+    "korName": "토켈라우",
     "status": "assigned"
   },
   {
     "alpha2": "TL",
     "alpha3": "TLS",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+670"
     ],
-    "currencies": [
+    "currencies":
+    [
       "USD"
     ],
     "emoji": "🇹🇱",
     "ioc": "TLS",
-    "languages": [
+    "languages":
+    [
       "por"
     ],
     "name": "Timor-Leste, Democratic Republic of",
+    "korName": "동티모르",
     "status": "assigned"
   },
   {
     "alpha2": "TM",
     "alpha3": "TKM",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+993"
     ],
-    "currencies": [
+    "currencies":
+    [
       "TMT"
     ],
     "emoji": "🇹🇲",
     "ioc": "TKM",
-    "languages": [
+    "languages":
+    [
       "tuk",
       "rus"
     ],
     "name": "Turkmenistan",
+    "korName": "투르크메니스탄",
     "status": "assigned"
   },
   {
     "alpha2": "TN",
     "alpha3": "TUN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+216"
     ],
-    "currencies": [
+    "currencies":
+    [
       "TND"
     ],
     "emoji": "🇹🇳",
     "ioc": "TUN",
-    "languages": [
+    "languages":
+    [
       "ara"
     ],
     "name": "Tunisia",
+    "korName": "튀니지",
     "status": "assigned"
   },
   {
     "alpha2": "TO",
     "alpha3": "TON",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+676"
     ],
-    "currencies": [
+    "currencies":
+    [
       "TOP"
     ],
     "emoji": "🇹🇴",
     "ioc": "TGA",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Tonga",
+    "korName": "통가",
     "status": "assigned"
   },
   {
     "alpha2": "TP",
     "alpha3": "TMP",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "East Timor",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "TR",
     "alpha3": "TUR",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+90"
     ],
-    "currencies": [
+    "currencies":
+    [
       "TRY"
     ],
     "emoji": "🇹🇷",
     "ioc": "TUR",
-    "languages": [
+    "languages":
+    [
       "tur"
     ],
     "name": "Turkey",
+    "korName": "터키",
     "status": "assigned"
   },
   {
     "alpha2": "TT",
     "alpha3": "TTO",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1 868"
     ],
-    "currencies": [
+    "currencies":
+    [
       "TTD"
     ],
     "emoji": "🇹🇹",
     "ioc": "TTO",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Trinidad And Tobago",
+    "korName": "트리니다드 토바고",
     "status": "assigned"
   },
   {
     "alpha2": "TV",
     "alpha3": "TUV",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+688"
     ],
-    "currencies": [
+    "currencies":
+    [
       "AUD"
     ],
     "emoji": "🇹🇻",
     "ioc": "TUV",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Tuvalu",
+    "korName": "투발루",
     "status": "assigned"
   },
   {
     "alpha2": "TW",
     "alpha3": "TWN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+886"
     ],
-    "currencies": [
+    "currencies":
+    [
       "TWD"
     ],
     "emoji": "🇹🇼",
     "ioc": "TPE",
-    "languages": [
+    "languages":
+    [
       "zho"
     ],
     "name": "Taiwan",
+    "korName": "대만",
     "status": "assigned"
   },
   {
     "alpha2": "TZ",
     "alpha3": "TZA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+255"
     ],
-    "currencies": [
+    "currencies":
+    [
       "TZS"
     ],
     "emoji": "🇹🇿",
     "ioc": "TAN",
-    "languages": [
+    "languages":
+    [
       "swa",
       "eng"
     ],
     "name": "Tanzania, United Republic Of",
+    "korName": "탄자니아",
     "status": "assigned"
   },
   {
     "alpha2": "UA",
     "alpha3": "UKR",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+380"
     ],
-    "currencies": [
+    "currencies":
+    [
       "UAH"
     ],
     "emoji": "🇺🇦",
     "ioc": "UKR",
-    "languages": [
+    "languages":
+    [
       "ukr",
       "rus"
     ],
     "name": "Ukraine",
+    "korName": "우크라이나",
     "status": "assigned"
   },
   {
     "alpha2": "UG",
     "alpha3": "UGA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+256"
     ],
-    "currencies": [
+    "currencies":
+    [
       "UGX"
     ],
     "emoji": "🇺🇬",
     "ioc": "UGA",
-    "languages": [
+    "languages":
+    [
       "eng",
       "swa"
     ],
     "name": "Uganda",
+    "korName": "우간다",
     "status": "assigned"
   },
   {
     "alpha2": "UK",
     "alpha3": "",
-    "countryCallingCodes": [],
-    "currencies": [
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [
       "GBP"
     ],
     "emoji": "",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "eng",
       "cor",
       "gle",
@@ -4392,267 +5475,333 @@
       "cym"
     ],
     "name": "United Kingdom",
+    "korName": "",
     "status": "reserved"
   },
   {
     "alpha2": "UM",
     "alpha3": "UMI",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1"
     ],
-    "currencies": [
+    "currencies":
+    [
       "USD"
     ],
     "emoji": "🇺🇲",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "United States Minor Outlying Islands",
+    "korName": "미국령 해외 제도",
     "status": "assigned"
   },
   {
     "alpha2": "US",
     "alpha3": "USA",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1"
     ],
-    "currencies": [
+    "currencies":
+    [
       "USD"
     ],
     "emoji": "🇺🇸",
     "ioc": "USA",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "United States",
+    "korName": "미국",
     "status": "assigned"
   },
   {
     "alpha2": "UY",
     "alpha3": "URY",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+598"
     ],
-    "currencies": [
+    "currencies":
+    [
       "UYU",
       "UYI"
     ],
     "emoji": "🇺🇾",
     "ioc": "URU",
-    "languages": [
+    "languages":
+    [
       "spa"
     ],
     "name": "Uruguay",
+    "korName": "우루과이",
     "status": "assigned"
   },
   {
     "alpha2": "UZ",
     "alpha3": "UZB",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+998"
     ],
-    "currencies": [
+    "currencies":
+    [
       "UZS"
     ],
     "emoji": "🇺🇿",
     "ioc": "UZB",
-    "languages": [
+    "languages":
+    [
       "uzb",
       "rus"
     ],
     "name": "Uzbekistan",
+    "korName": "우즈베키스탄",
     "status": "assigned"
   },
   {
     "alpha2": "VA",
     "alpha3": "VAT",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+379",
       "+39"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇻🇦",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "ita"
     ],
     "name": "Vatican City State",
+    "korName": "바티칸 시국",
     "status": "assigned"
   },
   {
     "alpha2": "VC",
     "alpha3": "VCT",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1 784"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XCD"
     ],
     "emoji": "🇻🇨",
     "ioc": "VIN",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Saint Vincent And The Grenadines",
+    "korName": "세인트빈센트그레나딘",
     "status": "assigned"
   },
   {
     "alpha2": "VD",
     "alpha3": "VDR",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Viet-Nam, Democratic Republic of",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "VE",
     "alpha3": "VEN",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+58"
     ],
-    "currencies": [
+    "currencies":
+    [
       "VEF"
     ],
     "emoji": "🇻🇪",
     "ioc": "VEN",
-    "languages": [
+    "languages":
+    [
       "spa"
     ],
     "name": "Venezuela, Bolivarian Republic Of",
+    "korName": "베네수엘라",
     "status": "assigned"
   },
   {
     "alpha2": "VG",
     "alpha3": "VGB",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1 284"
     ],
-    "currencies": [
+    "currencies":
+    [
       "USD"
     ],
     "emoji": "🇻🇬",
     "ioc": "IVB",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Virgin Islands (British)",
+    "korName": "영국령 버진아일랜드",
     "status": "assigned"
   },
   {
     "alpha2": "VI",
     "alpha3": "VIR",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+1 340"
     ],
-    "currencies": [
+    "currencies":
+    [
       "USD"
     ],
     "emoji": "🇻🇮",
     "ioc": "ISV",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Virgin Islands (US)",
+    "korName": "미국령 버진아일랜드",
     "status": "assigned"
   },
   {
     "alpha2": "VN",
     "alpha3": "VNM",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+84"
     ],
-    "currencies": [
+    "currencies":
+    [
       "VND"
     ],
     "emoji": "🇻🇳",
     "ioc": "VIE",
-    "languages": [
+    "languages":
+    [
       "vie"
     ],
     "name": "Viet Nam",
+    "korName": "베트남",
     "status": "assigned"
   },
   {
     "alpha2": "VU",
     "alpha3": "VUT",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+678"
     ],
-    "currencies": [
+    "currencies":
+    [
       "VUV"
     ],
     "emoji": "🇻🇺",
     "ioc": "VAN",
-    "languages": [
+    "languages":
+    [
       "bis",
       "eng",
       "fra"
     ],
     "name": "Vanuatu",
+    "korName": "바누아투",
     "status": "assigned"
   },
   {
     "alpha2": "WF",
     "alpha3": "WLF",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+681"
     ],
-    "currencies": [
+    "currencies":
+    [
       "XPF"
     ],
     "emoji": "🇼🇫",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "Wallis And Futuna",
+    "korName": "왈리스-푸투나 제도",
     "status": "assigned"
   },
   {
     "alpha2": "WK",
     "alpha3": "WAK",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Wake Island",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "WS",
     "alpha3": "WSM",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+685"
     ],
-    "currencies": [
+    "currencies":
+    [
       "WST"
     ],
     "emoji": "🇼🇸",
     "ioc": "SAM",
-    "languages": [
+    "languages":
+    [
       "eng",
       "smo"
     ],
     "name": "Samoa",
+    "korName": "사모아",
     "status": "assigned"
   },
   {
     "alpha2": "XK",
     "alpha3": "",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+383"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "",
     "ioc": "KOS",
-    "languages": [
+    "languages":
+    [
       "sqi",
       "srp",
       "bos",
@@ -4660,74 +5809,96 @@
       "rom"
     ],
     "name": "Kosovo",
+    "korName": "",
     "status": "user assigned"
   },
   {
     "alpha2": "YD",
     "alpha3": "YMD",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Yemen, Democratic",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "YE",
     "alpha3": "YEM",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+967"
     ],
-    "currencies": [
+    "currencies":
+    [
       "YER"
     ],
     "emoji": "🇾🇪",
     "ioc": "YEM",
-    "languages": [
+    "languages":
+    [
       "ara"
     ],
     "name": "Yemen",
+    "korName": "예멘",
     "status": "assigned"
   },
   {
     "alpha2": "YT",
     "alpha3": "MYT",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+262"
     ],
-    "currencies": [
+    "currencies":
+    [
       "EUR"
     ],
     "emoji": "🇾🇹",
     "ioc": "",
-    "languages": [
+    "languages":
+    [
       "fra"
     ],
     "name": "Mayotte",
+    "korName": "마요트",
     "status": "assigned"
   },
   {
     "alpha2": "YU",
     "alpha3": "YUG",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Yugoslavia",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "ZA",
     "alpha3": "ZAF",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+27"
     ],
-    "currencies": [
+    "currencies":
+    [
       "ZAR"
     ],
     "emoji": "🇿🇦",
     "ioc": "RSA",
-    "languages": [
+    "languages":
+    [
       "afr",
       "eng",
       "nbl",
@@ -4738,42 +5909,54 @@
       "zul"
     ],
     "name": "South Africa",
+    "korName": "남아프리카",
     "status": "assigned"
   },
   {
     "alpha2": "ZM",
     "alpha3": "ZMB",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+260"
     ],
-    "currencies": [
+    "currencies":
+    [
       "ZMW"
     ],
     "emoji": "🇿🇲",
     "ioc": "ZAM",
-    "languages": [
+    "languages":
+    [
       "eng"
     ],
     "name": "Zambia",
+    "korName": "잠비아",
     "status": "assigned"
   },
   {
     "alpha2": "ZR",
     "alpha3": "ZAR",
-    "countryCallingCodes": [],
-    "currencies": [],
+    "countryCallingCodes":
+    [],
+    "currencies":
+    [],
+    "emoji": "",
     "ioc": "",
-    "languages": [],
+    "languages":
+    [],
     "name": "Zaire",
+    "korName": "",
     "status": "deleted"
   },
   {
     "alpha2": "ZW",
     "alpha3": "ZWE",
-    "countryCallingCodes": [
+    "countryCallingCodes":
+    [
       "+263"
     ],
-    "currencies": [
+    "currencies":
+    [
       "USD",
       "ZAR",
       "BWP",
@@ -4782,12 +5965,14 @@
     ],
     "emoji": "🇿🇼",
     "ioc": "ZIM",
-    "languages": [
+    "languages":
+    [
       "eng",
       "sna",
       "nde"
     ],
     "name": "Zimbabwe",
+    "korName": "짐바브웨",
     "status": "assigned"
   }
 ]
